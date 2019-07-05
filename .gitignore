@@ -1,0 +1,6 @@
+*.stash
+*.user
+*.o
+*.so
+*.dll
+MakeFile*

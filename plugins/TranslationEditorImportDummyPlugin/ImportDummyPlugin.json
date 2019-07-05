@@ -1,0 +1,6 @@
+{
+    "name"      : "Translation Editor Import Dummy Plugin",
+    "type"      : "import",
+    "version"   : "0.0.1",
+    "menu"      : "Dummy Import"
+}

@@ -1,0 +1,6 @@
+{
+    "name"      : "Translation Editor Import TS Plugin",
+    "type"      : "import",
+    "version"   : "0.0.1",
+    "menu"      : "Imprt .ts files"
+}

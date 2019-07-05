@@ -1,0 +1,6 @@
+{
+    "name"      : "Translation Editor Update From TS Plugin",
+    "type"      : "import",
+    "version"   : "0.0.1",
+    "menu"      : "Update from .ts files"
+}

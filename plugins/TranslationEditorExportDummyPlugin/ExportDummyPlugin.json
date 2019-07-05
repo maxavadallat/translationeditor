@@ -1,0 +1,6 @@
+{
+    "name"      : "Translation Editor Export Dummy Plugin",
+    "type"      : "export",
+    "version"   : "0.0.1",
+    "menu"      : "Dummy Export"
+}

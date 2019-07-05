@@ -1,0 +1,6 @@
+{
+    "name"      : "Translation Editor Export QM Plugin",
+    "type"      : "export",
+    "version"   : "0.0.1",
+    "menu"      : "Export to .qm files"
+}

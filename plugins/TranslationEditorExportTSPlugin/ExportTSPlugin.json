@@ -1,0 +1,6 @@
+{
+    "name"      : "Translation Editor Export TS Plugin",
+    "type"      : "export",
+    "version"   : "0.0.1",
+    "menu"      : "Export to .ts files"
+}
