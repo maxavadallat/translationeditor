@@ -39,8 +39,7 @@
         <file>resources/images/core/justincase.png</file>
         <file>resources/images/core/arrowhead-down-16.png</file>
         <file>resources/images/core/arrowhead-up-16.png</file>
-        <file>resources/images/core/core_splash_dark.png</file>
-        <file>resources/images/core/core_splash_light.png</file>
+        <file>resources/images/core/core_splash_generic.jpg</file>
         <file>resources/images/icons/icon_clear-16.png</file>
         <file>resources/images/icons/icon_check.png</file>
         <file>resources/images/icons/icon_info.png</file>

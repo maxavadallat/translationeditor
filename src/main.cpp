@@ -20,7 +20,7 @@ int main(int argc, char *argv[])
     QApplication a(argc, argv);
 
     // Init Pixmap
-    QPixmap pixmap(":/resources/images/core/core_splash_dark.png");
+    QPixmap pixmap(":/resources/images/core/core_splash_generic.png");
     // Init Splash Screen
     QSplashScreen splash(pixmap);
     // Show Splash Screen
